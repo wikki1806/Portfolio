@@ -10,7 +10,7 @@
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
- <a href=" https://wikki1806.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
+ <a href="https://wikki1806.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
